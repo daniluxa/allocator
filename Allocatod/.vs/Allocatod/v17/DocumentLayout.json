@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shumkin\\Documents\\GitHub\\Education\\allocator\\Allocatod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57B45FE3-90A0-4A6E-9DBC-1CB7A2B345BF}|Allocatod\\Allocatod.vcxproj|C:\\Users\\shumkin\\Documents\\GitHub\\Education\\allocator\\Allocatod\\Allocatod\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57B45FE3-90A0-4A6E-9DBC-1CB7A2B345BF}|Allocatod\\Allocatod.vcxproj|solutionrelative:Allocatod\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\shumkin\\Documents\\GitHub\\Education\\allocator\\Allocatod\\Allocatod\\main.cpp",
+              "RelativeDocumentMoniker": "Allocatod\\main.cpp",
+              "ToolTip": "C:\\Users\\shumkin\\Documents\\GitHub\\Education\\allocator\\Allocatod\\Allocatod\\main.cpp",
+              "RelativeToolTip": "Allocatod\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-27T05:40:17.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
